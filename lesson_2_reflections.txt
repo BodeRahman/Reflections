@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When i initialize a repo git creates an empty repository.i need to initialize a new repo so i can
+be able to track my files and make changes.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+the staging area is the point where files are moved into from a working directory,before committing the change to the
+repository.before any file can be committed to a repo,we must first add the file to the staging area.
+ 
