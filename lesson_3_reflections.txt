@@ -23,3 +23,8 @@ What is the benefit of having a copy of the last known state of the remote store
 some changes on the remote branch might have been made by another collaborator,so having a copy of the remote stored 
 locally enables you to keep the state of the remote repository at your hand while you work on your branch locally, and 
 also makes it easier for you to merge your own commits to the remote by merging it locally before you push to the remote.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+never tried collaborating on a project until my tutor put me on git and github,after going through lessons on udacity i 
+found out other system like dropbox,google docs.but i will pick git and githb over any other.
