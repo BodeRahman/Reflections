@@ -28,3 +28,12 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 never tried collaborating on a project until my tutor put me on git and github,after going through lessons on udacity i 
 found out other system like dropbox,google docs.but i will pick git and githb over any other.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach
+have?
+
+Working in a separate branch ensures that your master branch is always kept in a working state. You can try and experiment 
+new functionality or algorithm in the new branch untill you are sure it works without breaking anything. On the other hand,
+an obvious fix for e.g. easy misspelling would not need much experimenting and could be fixed directly in the master branch.
+When working with a large group, though,using branches to keep track of which changes have already been reviewed and
+approved is extremely helpful.
